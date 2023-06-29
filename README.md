@@ -1,5 +1,5 @@
 # bytecode_fetcher
-A small script to get the bytecode of any deployed smart contract.
+A small script to get the bytecode of any smart contract deployed on the Ethereum blockchain.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 NOTE: Remember to change the auth credentials with your own.
