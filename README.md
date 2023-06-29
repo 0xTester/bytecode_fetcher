@@ -1,5 +1,5 @@
 # bytecode_fetcher
-A small script to fetch the bytecode of any deployed smart contract.
+A small script to get the bytecode of any deployed smart contract.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 NOTE: Remember to change the auth credentials with your own.
